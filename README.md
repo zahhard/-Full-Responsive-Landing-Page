@@ -28,4 +28,4 @@ The goal of this project is to create a clean, fast, and fully responsive landin
 ## 🚀 Installation & Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/username/your-project.git
+git clone https://github.com/zahhard/-Full-Responsive-Landing-Page
